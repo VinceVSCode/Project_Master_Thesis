@@ -1,0 +1,20 @@
+{
+  "id": "master-thesis",
+  "title": "Master's Thesis: Vehicle Recognition",
+  "track": "machine-learning",
+  "summary": "Code from my master's thesis on recognising vehicles at intersections: object detection experiments with Mask R-CNN, TensorFlow and the COCO dataset.",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Mask R-CNN",
+    "Computer Vision",
+    "Jupyter"
+  ],
+  "repo": "https://github.com/VinceVSCode/Project_Master_Thesis",
+  "demo_url": null,
+  "thumbnail": null,
+  "demo_media": null,
+  "run_command": null,
+  "status": "first-attempt",
+  "version": null
+}
