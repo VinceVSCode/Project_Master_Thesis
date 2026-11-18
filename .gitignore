@@ -1,0 +1,2 @@
+# Kaggle API credentials: keep them in ~/.kaggle/, never in the repository.
+kaggle.json
